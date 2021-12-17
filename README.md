@@ -8,8 +8,8 @@ npm install
 
 **Running the site**
 
-node server.js 8080 (or whichever port you want to use)
+node server.js 8080
 
 **Accessing the site**
 
-url: localhost:<port>/public/index.js
+url: localhost:8080/public/index.js
