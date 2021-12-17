@@ -7,7 +7,9 @@ Download the repository.
 npm install
 
 **Running the site**
+
 node server.js 8080 (or whichever port you want to use)
 
 **Accessing the site**
+
 url: localhost:<port>/public/index.js
