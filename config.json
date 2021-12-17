@@ -1,8 +1,0 @@
-{
-  "scheme": "mongodb+srv://",
-  "address": "<address>",
-  "defaultDatabase": "<database>",
-  "username": "<username>",
-  "password": "<password>",
-  "port":8080
-}
